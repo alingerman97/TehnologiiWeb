@@ -1,0 +1,26 @@
+.header{
+    padding-bottom: 200px;
+}
+.nav-bar ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: blueviolet;
+    font-size: 30px;
+}
+.nav-bar ul li{
+    padding-left: 10px;
+    
+}
+.main-title h1{
+    padding-top: 50px;
+    text-align: center;
+    color: brown;
+}
+.introduction{
+    background-color: aqua;
+}
+.history{
+    text-align: center;
+}
